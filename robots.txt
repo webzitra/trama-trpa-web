@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://trama-trpa.webzitra.cz/sitemap.xml
